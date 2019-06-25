@@ -1,1 +1,2 @@
 This is a test message to observe how commit works
+Additional lines added to file
